@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ShuffleDAO Docs',
   tagline: 'The community currency for NFTs',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.shuffledao.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -53,7 +53,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/shuffledao/shuffledao-docs',
             label: 'GitHub',
             position: 'right',
           },
