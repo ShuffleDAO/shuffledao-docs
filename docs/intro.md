@@ -7,7 +7,7 @@ slug: /
 
 
 ## What is ShuffleDAO?
-ShuffleDAO is an NFT incubator. Our token, $MINT, is the community currency that backs our partner projects, providing long-term value to NFT holders. Our goal is to streamline the NFT development process and unify NFT economies using MINT.
+ShuffleDAO is an NFT incubator. Our token, MINT, is the community currency that backs our partner projects, providing long-term value to NFT holders. Our goal is to streamline the NFT development process and unify NFT economies using MINT.
 
 
 ### How to participate in ShuffleDAO
