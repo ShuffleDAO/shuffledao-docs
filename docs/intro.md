@@ -26,7 +26,7 @@ Project proposals are not shared with or voted on by the public DAO community. D
 ### MINT
 ShuffleDAO's goal is to create a unified token that can be earned and used across all projects in our ecosystem. MINT is backed by ETH in the DAO treasury and distributed to our partner communities.
 
-MINT has a number of advantages compared to project specific tokens:
+#### MINT has a number of advantages compared to project specific tokens:
 - **Liquidity:** The DAO treasury aims to own all of its liquidity ensuring users are always able to exchange MINT.
 - **Composability:** A single token can be used in a grown list of project ecosystems. This benefits both holders and projects with a more dynamic token economy.
 - **Value:** MINT is backed by ETH giving the token a hard floor or intrinsic value. New tokens are only created when there is ETH in the treasury to back them ensuring there is not uncontrolled inflation.  
