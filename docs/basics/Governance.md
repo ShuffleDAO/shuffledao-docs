@@ -1,17 +1,4 @@
 
-# Governance
-# Governance Process
-
-## Venues
-
-Discourse Forum 
-- Discourse Forum for governance-related discussion
-
-Snapshot
-- Snapshot is a simple voting interface that allows users to signal sentiment off-chain.
-
-Note: this is not a complete list, and should be updated by the community frequently 
-
 # Governance Structure
 
 Due to ShuffleDAOs unique scope of work, there is a requirement for multiple layers of Governance. ShuffleDAOs governance decisions will be made primarily by these key groups, Core Contributors, Delegates, and Committees. 
