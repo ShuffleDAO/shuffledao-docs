@@ -5,5 +5,5 @@ Baking is an accrual strategy for the ShuffleDAO treasury. It allows the protoco
 MINT has an intrinsic value of  0.000001 ETH. In order to make a profit from bonding, ShuffleDAO charges a premium for each bake.
 
 
-BakePrice = 0.000001E + Premium
+- BakePrice = 0.000001E + Premium
 
