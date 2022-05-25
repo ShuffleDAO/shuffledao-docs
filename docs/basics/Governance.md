@@ -5,11 +5,9 @@
 ## Venues
 
 Discourse Forum 
-
 - Discourse Forum for governance-related discussion
 
 Snapshot
-
 - Snapshot is a simple voting interface that allows users to signal sentiment off-chain.
 
 Note: this is not a complete list, and should be updated by the community frequently 
