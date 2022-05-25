@@ -1,5 +1,6 @@
+# Governance
 
-# Governance Structure
+## Governance Structure
 
 Due to ShuffleDAOs unique scope of work, there is a requirement for multiple layers of Governance. ShuffleDAOs governance decisions will be made primarily by these key groups, Core Contributors, Delegates, and Committees. 
 
@@ -14,7 +15,7 @@ Due to ShuffleDAOs unique scope of work, there is a requirement for multiple lay
 - Committees
     - Committees will be formed by delegates and will be centered around topics the community deems necessary to provide direction for the DAO.
 
-## DAO Roles & Responsibilities
+## Roles & Responsibilities
 
 - Core Contributors
     - Partner Project curation and selection and any associated work in helping partners successfully launch their project.
@@ -25,7 +26,7 @@ Due to ShuffleDAOs unique scope of work, there is a requirement for multiple lay
 - Committees
     - Provide insight and direction for the DAO on key topics
 
-# DAO Governance Process
+# Governance Process
 
 Proposals will go through multiple stages before going up for a vote.
 
