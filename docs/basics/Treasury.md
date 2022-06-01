@@ -3,7 +3,7 @@
 There are two main treasury contracts containing DAO assets. It is important to understand the differences and purposes of each.
 
 ## Protocol Treasury
-The protocol treasury represents all assets owned and controlled directly by the protocol. This is referred to as Protocol Controlled Value (PVC). The treasury contract is protected by 4/7 multisig. 
+The protocol treasury represents all assets owned and controlled directly by the protocol. This is referred to as Protocol Controlled Value (PCV). The treasury contract is protected by 4/7 multisig. 
 
 The two types of asset catagories are:
 - **Treasury Reserves:** Liquid reserves backing each MINT token. Currently this is only ETH and rETH.
@@ -20,9 +20,9 @@ Initially this vault will contain:
 
 DAO votes are required for spending DAO treasury assets. Quarterly budgets will be proposed to reduce the need for proposals and votes for individual expenses. 
 
-## Bootstrap Phase
+### Bootstrap Phase
 
-During the initial bootstrap phase all ETH collected from partner projects will evenly split between DAO contributors that work directly with our partners and the DAO treasury. Once the DAO treasury meets specific milestones a gradual transition from bootstrap mode will begin and project ETH will start to be allocated directly to the protocol treasury.
+During the initial bootstrap phase all ETH collected from partner projects will split evenly between DAO contributors that work directly with our partners and the DAO treasury. Once the DAO treasury meets specific milestones a gradual transition from bootstrap mode will begin and project ETH will start to be allocated directly to the protocol treasury.
 
 Allocation of DAO portion of project earnings:
 
