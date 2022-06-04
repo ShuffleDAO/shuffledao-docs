@@ -9,7 +9,7 @@ Annual Percentage Yield, is the normalized representation of an interest rate, b
 Bake Control Variable, is the scaling factor at which bake prices change. A higher BCV means a lower discount for bakers and higher inflation by the protocol. A lower BCV means a higher discount for bakers and lower inflation by the protocol.
 
 ## DAO 
-Decentralized Autonomous Organization, is a governance mechanism for making decisions in a more trustless and collaborative way. Voting rights are often bound to a governance token. In OlympusDAO the governance token is gOHM. At this time, only gOHM on the Ethereum chain can be used to vote. gOHM deposited in a staking/lending pool, or LP pairing cannot be used to vote.
+Decentralized Autonomous Organization, is a governance mechanism for making decisions in a more trustless and collaborative way. Voting rights are often bound to a governance token. In ShuffleDAO the governance token is MINT. 
 
 ## POL 
 Protocol Owned Liquidity 
